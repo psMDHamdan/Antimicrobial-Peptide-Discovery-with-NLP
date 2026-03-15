@@ -77,9 +77,3 @@ streamlit run app.py
 *   **DBAASP**: [Database of Antimicrobial Activity/Structure](https://dbaasp.org/)
 *   **UniProt**: [Protein Knowledgebase](https://www.uniprot.org/)
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-*Created by psMDHamdan as part of a computational biology initiative.*
